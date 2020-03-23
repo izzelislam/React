@@ -1,0 +1,1 @@
+export {default} from './screens/tugas1/App';
